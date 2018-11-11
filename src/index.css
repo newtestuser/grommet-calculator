@@ -1,0 +1,27 @@
+.button {
+  background-color: rgb(4, 56, 19); /* Green */
+  border: none;
+  color: white !important;;
+  padding: 10px !important;;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 28px;
+  min-width:50px !important;
+  }
+
+.disableInput {
+  color:rgb(58, 58, 58);
+  pointer-events: none;
+  text-align: right;
+
+}
+
+
+.input {
+  color:black;
+  text-align: right;
+}
